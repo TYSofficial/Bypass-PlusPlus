@@ -1,0 +1,25 @@
+* {
+	text-align: center;
+}
+/*BG SETTINGS BELOW*/
+body { 
+	background: #303030;
+}
+/*BG SETTINGS ABOVE*/
+
+h1 {
+	color: #FFBA51;
+	font-family: 'Aldrich', sans-serif;
+}
+
+h2 {
+	color: #FFD24D;
+	font-size: 20px;
+	font-family: 'Aldrich', sans-serif;
+}
+
+p {
+	color: #FFFFFF;
+	font-size: 15px;
+	font-family: 'Aldrich', sans-serif;
+}
